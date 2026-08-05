@@ -9,4 +9,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rigitro/my_Leetcode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [2544-alternating-digit-sum](https://github.com/Rigitro/my_Leetcode/tree/master/2544-alternating-digit-sum) |
 <!---LeetCode Topics End-->
