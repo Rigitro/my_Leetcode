@@ -12,5 +12,6 @@
 ## Math
 |  |
 | ------- |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/Rigitro/my_Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2544-alternating-digit-sum](https://github.com/Rigitro/my_Leetcode/tree/master/2544-alternating-digit-sum) |
 <!---LeetCode Topics End-->
