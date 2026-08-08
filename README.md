@@ -8,6 +8,7 @@
 | [0896-monotonic-array](https://github.com/Rigitro/my_Leetcode/tree/master/0896-monotonic-array) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Rigitro/my_Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1550-three-consecutive-odds](https://github.com/Rigitro/my_Leetcode/tree/master/1550-three-consecutive-odds) |
+| [2057-smallest-index-with-equal-value](https://github.com/Rigitro/my_Leetcode/tree/master/2057-smallest-index-with-equal-value) |
 ## Hash Table
 |  |
 | ------- |
