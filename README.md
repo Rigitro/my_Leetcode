@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Rigitro/my_Leetcode/tree/master/0001-two-sum) |
 | [0896-monotonic-array](https://github.com/Rigitro/my_Leetcode/tree/master/0896-monotonic-array) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Rigitro/my_Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Rigitro/my_Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1550-three-consecutive-odds](https://github.com/Rigitro/my_Leetcode/tree/master/1550-three-consecutive-odds) |
 | [2057-smallest-index-with-equal-value](https://github.com/Rigitro/my_Leetcode/tree/master/2057-smallest-index-with-equal-value) |
