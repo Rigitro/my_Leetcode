@@ -43,6 +43,7 @@
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Rigitro/my_Leetcode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1492-the-kth-factor-of-n](https://github.com/Rigitro/my_Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Rigitro/my_Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2413-smallest-even-multiple](https://github.com/Rigitro/my_Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Rigitro/my_Leetcode/tree/master/2469-convert-the-temperature) |
 | [2544-alternating-digit-sum](https://github.com/Rigitro/my_Leetcode/tree/master/2544-alternating-digit-sum) |
 | [2614-prime-in-diagonal](https://github.com/Rigitro/my_Leetcode/tree/master/2614-prime-in-diagonal) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0858-mirror-reflection](https://github.com/Rigitro/my_Leetcode/tree/master/0858-mirror-reflection) |
 | [1492-the-kth-factor-of-n](https://github.com/Rigitro/my_Leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [2413-smallest-even-multiple](https://github.com/Rigitro/my_Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2614-prime-in-diagonal](https://github.com/Rigitro/my_Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Prime Factorization
 |  |
