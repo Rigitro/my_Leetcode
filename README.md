@@ -18,6 +18,7 @@
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Rigitro/my_Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Rigitro/my_Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2469-convert-the-temperature](https://github.com/Rigitro/my_Leetcode/tree/master/2469-convert-the-temperature) |
 | [2544-alternating-digit-sum](https://github.com/Rigitro/my_Leetcode/tree/master/2544-alternating-digit-sum) |
 | [2843-count-symmetric-integers](https://github.com/Rigitro/my_Leetcode/tree/master/2843-count-symmetric-integers) |
 ## Enumeration
