@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rigitro/my_Leetcode/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/Rigitro/my_Leetcode/tree/master/0048-rotate-image) |
 | [0566-reshape-the-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0812-largest-triangle-area](https://github.com/Rigitro/my_Leetcode/tree/master/0812-largest-triangle-area) |
 | [0867-transpose-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/0867-transpose-matrix) |
@@ -31,6 +32,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rigitro/my_Leetcode/tree/master/0048-rotate-image) |
 | [0492-construct-the-rectangle](https://github.com/Rigitro/my_Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0812-largest-triangle-area](https://github.com/Rigitro/my_Leetcode/tree/master/0812-largest-triangle-area) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Rigitro/my_Leetcode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
@@ -56,6 +58,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rigitro/my_Leetcode/tree/master/0048-rotate-image) |
 | [0566-reshape-the-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
