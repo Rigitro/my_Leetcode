@@ -35,6 +35,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Rigitro/my_Leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Rigitro/my_Leetcode/tree/master/0048-rotate-image) |
 | [0492-construct-the-rectangle](https://github.com/Rigitro/my_Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0812-largest-triangle-area](https://github.com/Rigitro/my_Leetcode/tree/master/0812-largest-triangle-area) |
