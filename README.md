@@ -12,6 +12,7 @@
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Rigitro/my_Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1550-three-consecutive-odds](https://github.com/Rigitro/my_Leetcode/tree/master/1550-three-consecutive-odds) |
 | [2057-smallest-index-with-equal-value](https://github.com/Rigitro/my_Leetcode/tree/master/2057-smallest-index-with-equal-value) |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/Rigitro/my_Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/Rigitro/my_Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Rigitro/my_Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Rigitro/my_Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -51,6 +52,7 @@
 ## Matrix
 |  |
 | ------- |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/Rigitro/my_Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/Rigitro/my_Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Rigitro/my_Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Rigitro/my_Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -58,6 +60,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/Rigitro/my_Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/Rigitro/my_Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Rigitro/my_Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Prefix Sum
