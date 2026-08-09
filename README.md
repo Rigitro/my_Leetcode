@@ -13,10 +13,12 @@
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Rigitro/my_Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Rigitro/my_Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2614-prime-in-diagonal](https://github.com/Rigitro/my_Leetcode/tree/master/2614-prime-in-diagonal) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Rigitro/my_Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rigitro/my_Leetcode/tree/master/0001-two-sum) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Rigitro/my_Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Math
 |  |
 | ------- |
@@ -55,4 +57,12 @@
 |  |
 | ------- |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Rigitro/my_Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
+## Greedy
+|  |
+| ------- |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Rigitro/my_Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+## Counting
+|  |
+| ------- |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Rigitro/my_Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 <!---LeetCode Topics End-->
