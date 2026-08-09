@@ -16,6 +16,7 @@
 ## Math
 |  |
 | ------- |
+| [0492-construct-the-rectangle](https://github.com/Rigitro/my_Leetcode/tree/master/0492-construct-the-rectangle) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Rigitro/my_Leetcode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1492-the-kth-factor-of-n](https://github.com/Rigitro/my_Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Rigitro/my_Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
