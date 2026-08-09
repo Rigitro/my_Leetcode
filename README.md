@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Rigitro/my_Leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Rigitro/my_Leetcode/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/Rigitro/my_Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0812-largest-triangle-area](https://github.com/Rigitro/my_Leetcode/tree/master/0812-largest-triangle-area) |
 | [0867-transpose-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/0867-transpose-matrix) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Rigitro/my_Leetcode/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/Rigitro/my_Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -71,6 +73,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Rigitro/my_Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/0867-transpose-matrix) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Rigitro/my_Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
