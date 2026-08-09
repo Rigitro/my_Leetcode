@@ -44,6 +44,7 @@
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Rigitro/my_Leetcode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1492-the-kth-factor-of-n](https://github.com/Rigitro/my_Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Rigitro/my_Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1837-sum-of-digits-in-base-k](https://github.com/Rigitro/my_Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2413-smallest-even-multiple](https://github.com/Rigitro/my_Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Rigitro/my_Leetcode/tree/master/2469-convert-the-temperature) |
 | [2544-alternating-digit-sum](https://github.com/Rigitro/my_Leetcode/tree/master/2544-alternating-digit-sum) |
