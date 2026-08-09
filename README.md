@@ -10,6 +10,7 @@
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Rigitro/my_Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1550-three-consecutive-odds](https://github.com/Rigitro/my_Leetcode/tree/master/1550-three-consecutive-odds) |
 | [2057-smallest-index-with-equal-value](https://github.com/Rigitro/my_Leetcode/tree/master/2057-smallest-index-with-equal-value) |
+| [2614-prime-in-diagonal](https://github.com/Rigitro/my_Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Rigitro/my_Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2469-convert-the-temperature](https://github.com/Rigitro/my_Leetcode/tree/master/2469-convert-the-temperature) |
 | [2544-alternating-digit-sum](https://github.com/Rigitro/my_Leetcode/tree/master/2544-alternating-digit-sum) |
+| [2614-prime-in-diagonal](https://github.com/Rigitro/my_Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2843-count-symmetric-integers](https://github.com/Rigitro/my_Leetcode/tree/master/2843-count-symmetric-integers) |
 ## Enumeration
 |  |
@@ -32,8 +34,13 @@
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Rigitro/my_Leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [2614-prime-in-diagonal](https://github.com/Rigitro/my_Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Prime Factorization
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Rigitro/my_Leetcode/tree/master/1492-the-kth-factor-of-n) |
+## Matrix
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/Rigitro/my_Leetcode/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
