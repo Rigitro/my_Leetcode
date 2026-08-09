@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Rigitro/my_Leetcode/tree/master/0001-two-sum) |
 | [0566-reshape-the-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0812-largest-triangle-area](https://github.com/Rigitro/my_Leetcode/tree/master/0812-largest-triangle-area) |
+| [0867-transpose-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/Rigitro/my_Leetcode/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/Rigitro/my_Leetcode/tree/master/0941-valid-mountain-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Rigitro/my_Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/0867-transpose-matrix) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Rigitro/my_Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/Rigitro/my_Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -65,6 +67,7 @@
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/0867-transpose-matrix) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Rigitro/my_Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/Rigitro/my_Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Rigitro/my_Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
