@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Rigitro/my_Leetcode/tree/master/0001-two-sum) |
 | [0812-largest-triangle-area](https://github.com/Rigitro/my_Leetcode/tree/master/0812-largest-triangle-area) |
 | [0896-monotonic-array](https://github.com/Rigitro/my_Leetcode/tree/master/0896-monotonic-array) |
+| [0941-valid-mountain-array](https://github.com/Rigitro/my_Leetcode/tree/master/0941-valid-mountain-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Rigitro/my_Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Rigitro/my_Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1550-three-consecutive-odds](https://github.com/Rigitro/my_Leetcode/tree/master/1550-three-consecutive-odds) |
