@@ -23,6 +23,7 @@
 | [2373-largest-local-values-in-a-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Rigitro/my_Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Rigitro/my_Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Rigitro/my_Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/Rigitro/my_Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Rigitro/my_Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Hash Table
@@ -71,6 +72,7 @@
 | [2373-largest-local-values-in-a-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Rigitro/my_Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Rigitro/my_Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Rigitro/my_Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/Rigitro/my_Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Simulation
 |  |
@@ -81,6 +83,7 @@
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Rigitro/my_Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/Rigitro/my_Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Rigitro/my_Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Rigitro/my_Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -102,4 +105,12 @@
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Rigitro/my_Leetcode/tree/master/0812-largest-triangle-area) |
+## Sorting
+|  |
+| ------- |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Rigitro/my_Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Rigitro/my_Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
