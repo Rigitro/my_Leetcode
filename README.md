@@ -12,6 +12,7 @@
 | [0867-transpose-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/Rigitro/my_Leetcode/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/Rigitro/my_Leetcode/tree/master/0941-valid-mountain-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Rigitro/my_Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Rigitro/my_Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Rigitro/my_Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -36,6 +37,7 @@
 | [0048-rotate-image](https://github.com/Rigitro/my_Leetcode/tree/master/0048-rotate-image) |
 | [0492-construct-the-rectangle](https://github.com/Rigitro/my_Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0812-largest-triangle-area](https://github.com/Rigitro/my_Leetcode/tree/master/0812-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Rigitro/my_Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Rigitro/my_Leetcode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1492-the-kth-factor-of-n](https://github.com/Rigitro/my_Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Rigitro/my_Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Rigitro/my_Leetcode/tree/master/0812-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Rigitro/my_Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 ## Polygons
 |  |
 | ------- |
