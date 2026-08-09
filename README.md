@@ -10,6 +10,7 @@
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Rigitro/my_Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1550-three-consecutive-odds](https://github.com/Rigitro/my_Leetcode/tree/master/1550-three-consecutive-odds) |
 | [2057-smallest-index-with-equal-value](https://github.com/Rigitro/my_Leetcode/tree/master/2057-smallest-index-with-equal-value) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Rigitro/my_Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2614-prime-in-diagonal](https://github.com/Rigitro/my_Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Hash Table
 |  |
@@ -42,5 +43,10 @@
 ## Matrix
 |  |
 | ------- |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Rigitro/my_Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2614-prime-in-diagonal](https://github.com/Rigitro/my_Leetcode/tree/master/2614-prime-in-diagonal) |
+## Simulation
+|  |
+| ------- |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Rigitro/my_Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 <!---LeetCode Topics End-->
