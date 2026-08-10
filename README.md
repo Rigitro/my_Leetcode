@@ -25,12 +25,14 @@
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Rigitro/my_Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Rigitro/my_Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/Rigitro/my_Leetcode/tree/master/2614-prime-in-diagonal) |
+| [2748-number-of-beautiful-pairs](https://github.com/Rigitro/my_Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Rigitro/my_Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rigitro/my_Leetcode/tree/master/0001-two-sum) |
 | [2352-equal-row-and-column-pairs](https://github.com/Rigitro/my_Leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2748-number-of-beautiful-pairs](https://github.com/Rigitro/my_Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Rigitro/my_Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Math
 |  |
@@ -49,6 +51,7 @@
 | [2469-convert-the-temperature](https://github.com/Rigitro/my_Leetcode/tree/master/2469-convert-the-temperature) |
 | [2544-alternating-digit-sum](https://github.com/Rigitro/my_Leetcode/tree/master/2544-alternating-digit-sum) |
 | [2614-prime-in-diagonal](https://github.com/Rigitro/my_Leetcode/tree/master/2614-prime-in-diagonal) |
+| [2748-number-of-beautiful-pairs](https://github.com/Rigitro/my_Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2843-count-symmetric-integers](https://github.com/Rigitro/my_Leetcode/tree/master/2843-count-symmetric-integers) |
 ## Enumeration
 |  |
@@ -61,6 +64,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/Rigitro/my_Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/Rigitro/my_Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2614-prime-in-diagonal](https://github.com/Rigitro/my_Leetcode/tree/master/2614-prime-in-diagonal) |
+| [2748-number-of-beautiful-pairs](https://github.com/Rigitro/my_Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -101,6 +105,7 @@
 ## Counting
 |  |
 | ------- |
+| [2748-number-of-beautiful-pairs](https://github.com/Rigitro/my_Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Rigitro/my_Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Geometry
 |  |
