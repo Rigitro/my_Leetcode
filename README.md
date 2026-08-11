@@ -48,6 +48,7 @@
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Rigitro/my_Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Rigitro/my_Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2413-smallest-even-multiple](https://github.com/Rigitro/my_Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Rigitro/my_Leetcode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Rigitro/my_Leetcode/tree/master/2469-convert-the-temperature) |
 | [2544-alternating-digit-sum](https://github.com/Rigitro/my_Leetcode/tree/master/2544-alternating-digit-sum) |
 | [2614-prime-in-diagonal](https://github.com/Rigitro/my_Leetcode/tree/master/2614-prime-in-diagonal) |
@@ -56,6 +57,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/Rigitro/my_Leetcode/tree/master/2427-number-of-common-factors) |
 | [2843-count-symmetric-integers](https://github.com/Rigitro/my_Leetcode/tree/master/2843-count-symmetric-integers) |
 ## Number Theory
 |  |
@@ -63,6 +65,7 @@
 | [0858-mirror-reflection](https://github.com/Rigitro/my_Leetcode/tree/master/0858-mirror-reflection) |
 | [1492-the-kth-factor-of-n](https://github.com/Rigitro/my_Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/Rigitro/my_Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Rigitro/my_Leetcode/tree/master/2427-number-of-common-factors) |
 | [2614-prime-in-diagonal](https://github.com/Rigitro/my_Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2748-number-of-beautiful-pairs](https://github.com/Rigitro/my_Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 ## Prime Factorization
@@ -133,4 +136,9 @@
 |  |
 | ------- |
 | [0858-mirror-reflection](https://github.com/Rigitro/my_Leetcode/tree/master/0858-mirror-reflection) |
+| [2427-number-of-common-factors](https://github.com/Rigitro/my_Leetcode/tree/master/2427-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Rigitro/my_Leetcode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
