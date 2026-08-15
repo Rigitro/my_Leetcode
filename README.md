@@ -44,6 +44,7 @@
 | [0858-mirror-reflection](https://github.com/Rigitro/my_Leetcode/tree/master/0858-mirror-reflection) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Rigitro/my_Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Rigitro/my_Leetcode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
+| [1362-closest-divisors](https://github.com/Rigitro/my_Leetcode/tree/master/1362-closest-divisors) |
 | [1492-the-kth-factor-of-n](https://github.com/Rigitro/my_Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Rigitro/my_Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Rigitro/my_Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
@@ -71,6 +72,7 @@
 ## Prime Factorization
 |  |
 | ------- |
+| [1362-closest-divisors](https://github.com/Rigitro/my_Leetcode/tree/master/1362-closest-divisors) |
 | [1492-the-kth-factor-of-n](https://github.com/Rigitro/my_Leetcode/tree/master/1492-the-kth-factor-of-n) |
 ## Matrix
 |  |
