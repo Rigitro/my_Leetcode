@@ -47,6 +47,7 @@
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Rigitro/my_Leetcode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1362-closest-divisors](https://github.com/Rigitro/my_Leetcode/tree/master/1362-closest-divisors) |
 | [1492-the-kth-factor-of-n](https://github.com/Rigitro/my_Leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/Rigitro/my_Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Rigitro/my_Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Rigitro/my_Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2413-smallest-even-multiple](https://github.com/Rigitro/my_Leetcode/tree/master/2413-smallest-even-multiple) |
