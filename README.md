@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Rigitro/my_Leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Rigitro/my_Leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Rigitro/my_Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rigitro/my_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/Rigitro/my_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0812-largest-triangle-area](https://github.com/Rigitro/my_Leetcode/tree/master/0812-largest-triangle-area) |
@@ -145,4 +146,8 @@
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Rigitro/my_Leetcode/tree/master/2427-number-of-common-factors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rigitro/my_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
