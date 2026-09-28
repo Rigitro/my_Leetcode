@@ -22,6 +22,7 @@
 | [1550-three-consecutive-odds](https://github.com/Rigitro/my_Leetcode/tree/master/1550-three-consecutive-odds) |
 | [2057-smallest-index-with-equal-value](https://github.com/Rigitro/my_Leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Rigitro/my_Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/Rigitro/my_Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Rigitro/my_Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -87,6 +88,7 @@
 | [0867-transpose-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Rigitro/my_Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/Rigitro/my_Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Rigitro/my_Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Rigitro/my_Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
